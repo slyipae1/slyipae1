@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, there! 👋
 
-<!--
-**slyipae1/slyipae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sherry YIP, a year 3 undergraduate student at the Hong Kong University of Science and Technology. I am pursuing a major in Data Science and Technology, with an additional major in Computer Science.
 
-Here are some ideas to get you started:
+## 📚 Education
+- Bachelor of Science in Data Science and Technology, Hong Kong University of Science and Technology
+- Additional Major in Computer Science, Hong Kong University of Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills and Knowledge
+- Python
+- JavaScripts
+- C++
+- R
+- SQL
+- Machine Learning
+- Data Analysis & Data Visualization
+
+## 📫 Connect with Me
+- Email: [slyipae@connect.ust.hk]
+
+Feel free to reach out if you have any questions or would like to collaborate on projects!
