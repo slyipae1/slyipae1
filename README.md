@@ -17,8 +17,8 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 
 ## 🔬 Research and Work Experiences
 ### FYP (ongoing)
-- title: Large-Scale Vision-Language Models in Medicine
-- main contribution: 
+- Title: Large-Scale Vision-Language Models in Medicine
+- Main contribution: 
     - Designing a pipeline to parse medical books and construct visual question-answering benchmark
     - Developing a classifier to classify medical figures based on modality and anatomy
 
