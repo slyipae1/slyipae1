@@ -59,7 +59,7 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 - 🥾 Hiking
 - 🏃 Jogging
 - 🏊 Swimming
-- 🎶 Music & Kpop
+- 🎶 Kpop
 - ...
 
 ## 📫 Connect with Me
