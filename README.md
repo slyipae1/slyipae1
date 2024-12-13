@@ -1,6 +1,6 @@
 # Hi, there! 👋
 
-I am Sherry YIP, a year 3 undergraduate student at the Hong Kong University of Science and Technology. I am pursuing a major in Data Science and Technology, with an additional major in Computer Science.
+I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of Science and Technology. I am pursuing a major in Data Science and Technology, with an additional major in Computer Science.
 
 ## 📚 Education
 - Bachelor of Science in Data Science and Technology, Hong Kong University of Science and Technology
