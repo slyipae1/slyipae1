@@ -12,7 +12,8 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 - LLM/LVLMs
 - Databases
 - Fact-Checking
-- Relational Reasoning Graph
+- Graphs
+- ...
 
 ## 🔬 Research and Work Experiences
 ### FYP (ongoing)
@@ -53,6 +54,13 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 - SQL
 - MQL
 - R
+
+## 🎵 Personal Interests
+- 🥾 Hiking
+- 🏃 Jogging
+- 🏊 Swimming
+- 🎶 Music & Kpop
+- ...
 
 ## 📫 Connect with Me
 - Email: [slyipae@connect.ust.hk]
