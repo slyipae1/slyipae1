@@ -2,17 +2,21 @@
 
 I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of Science and Technology. I am pursuing a major in Data Science and Technology, with an additional major in Computer Science.
 
+Here is my [CV](assets/CV.pdf).
+
 ## 📚 Education
 - Bachelor of Science in Data Science and Technology, Hong Kong University of Science and Technology
 - Additional Major in Computer Science, Hong Kong University of Science and Technology
 
 ## 🔍 Research Interests
 - Natural Language Processing (NLP)
-- Multimodal NLP
+- Multimodality
 - LLM/LVLMs
 - Databases
 - Fact-Checking
 - Graphs
+- Document Understanding
+- Medical AI 
 - ...
 
 ## 🔬 Research and Work Experiences
@@ -24,7 +28,10 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 
 ### UROP (ongoing)
 - Project title: “Knowledge Discovery over Database” 
--  VQL debugger using LLMs with optimization strategy and RAG 
+- VQL debugger using LLMs with optimization strategy and RAG 
+- Here are my two progress reports submitted to UROP:
+    - [UROP1100 Report_2024summer.pdf](assets/UROP1100%20Report_2024summer.pdf)
+    - [UROP2100 Report_2024fall.pdf](assets/UROP2100%20Report_2024fall.pdf)
 
 ### [HKUST DS CoLab](https://library.hkust.edu.hk/ds/ds-colab/) Interns
 #### Topic modelling web tool (EN version)
