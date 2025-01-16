@@ -66,7 +66,7 @@ Here is my [CV](assets/CV.pdf).
 - 🥾 Hiking
 - 🏃 Jogging
 - 🏊 Swimming
-- 🎶 Music & Kpop
+- 🎶 Kpop
 - ...
 
 ## 📫 Connect with Me
