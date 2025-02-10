@@ -4,13 +4,13 @@ I am Sherry YIP, a year 4 undergraduate student at the Hong Kong University of S
 
 Here is my [CV](assets/CV.pdf).
 
-## 📚 Education
+## Education
 - Hong Kong University of Science and Technology, 2021~
   - Bachelor of Science in Data Science and Technology
   - Bachelor of Computer Science
   - Currect CGA 3.931/4.3
 
-## 🔍 Research Interests
+## Research Interests
 My primary interest lies in **Natural Language Processing (NLP)**, particularly in human-centric problems. The following are some areas I have been working on or following out of interest:
 - LLM/LVLMs
 - RAG
@@ -23,7 +23,7 @@ My primary interest lies in **Natural Language Processing (NLP)**, particularly 
 - Fact-Checking
 - ...
 
-## 🔬 Research and Work Experiences
+## Research and Work Experiences
 ### FYP / Final-Year Project (ongoing)
 - FYP title: **Large-Scale Vision-Language Models in Medicine**
 - Main contributions: 
@@ -57,7 +57,7 @@ My primary interest lies in **Natural Language Processing (NLP)**, particularly 
 
 - Software game: [Tom & Jerry Maze Game](https://github.com/charlieop/Comp3111F23G05)
 
-## 💻 Programming Skills
+## Programming Skills
 - Python (Pytorch, streamlit)
 - JavaScripts
 - C++
@@ -66,14 +66,14 @@ My primary interest lies in **Natural Language Processing (NLP)**, particularly 
 - MQL
 - R
 
-## 🎵 Personal Interests
+## Personal Interests
 - 🥾 Hiking
 - 🏃 Jogging
 - 🏊 Swimming
 - 🎶 Kpop
 - ...
 
-## 📫 Connect with Me
+## Connect with Me
 - Email: [slyipae@connect.ust.hk]
 
 Feel free to reach out if you have any questions or would like to collaborate on projects!
