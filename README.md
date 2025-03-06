@@ -4,6 +4,8 @@ I am a year 4 undergraduate student at the Hong Kong University of Science and T
 
 Here is my CV: [CV](https://slyipae1.github.io/files/CV.pdf)
 
+You can visit my [**personal webpage**](https://slyipae1.github.io/)
+
 ---
 
 # Education
